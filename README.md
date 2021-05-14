@@ -4,4 +4,6 @@ TinDog Starting Files
 ![lab](https://user-images.githubusercontent.com/67640037/118270439-b4431780-b4dd-11eb-94bf-82566dac21a5.png)
 ![mastiff](https://user-images.githubusercontent.com/67640037/118270449-b73e0800-b4dd-11eb-897f-0bcac423cacd.png)
 ![pitbull](https://user-images.githubusercontent.com/67640037/118270638-f53b2c00-b4dd-11eb-919d-d15c0e576e08.png)
+![my](https://user-images.githubusercontent.com/67640037/118271604-210ae180-b4df-11eb-8687-e563e96e75e0.png)
+![TechCrunch](https://user-images.githubusercontent.com/67640037/118271626-29fbb300-b4df-11eb-842b-5a942abc9621.png)
 
