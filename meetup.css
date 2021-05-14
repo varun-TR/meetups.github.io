@@ -1,0 +1,271 @@
+#title{
+    background-image:linear-gradient(#ff0f7b,#f89b29,#ff8989);
+   font-family: 'Ubuntu', sans-serif;
+   
+}
+
+/* ::-webkit-scrollbar{
+    background-image:linear-gradient(transparent,blue);
+    border-radius: 2em;
+    
+} */
+
+
+.navbrand{
+    font-size: 5rem;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#h1{
+    font-family:'Ubuntu', sans-serif; 
+   font-size: 5em;
+   font-weight: 700;
+   
+   margin: 1em;
+    color:whitesmoke;
+   
+}
+
+.a{
+    text-decoration: none;
+    color:black;
+}
+.a:hover{
+    color:white;
+}
+
+#btn1{
+    margin-left: 5.5em;
+}
+#btn2{
+    
+}
+
+#iphone{
+    width:50%;
+   transform: rotate(25deg);
+   margin-bottom: 3em;
+   margin-left: 3em;
+   /* position: absolute; */
+   
+}
+
+#meetup{
+    font-family: 'Dancing Script', cursive;
+    font-size: 2.5rem;
+    
+    color:black;
+    letter-spacing: 0.5em;
+   
+}
+
+#navbarNav{
+    font-size: 1em;
+    font-weight: 700;
+}
+
+#nav:hover{
+    color:whitesmoke;
+}
+
+#sec2{
+    display: flex;
+    text-align: center;
+   margin-top:3em;
+    /* position: relative;
+    z-index: 1; */
+   
+  
+    
+   
+
+}
+.fas{
+    font-size: 4em;
+    margin-top:1.5em;
+    margin-bottom:1em;
+    color: rgb(241, 76, 103);
+}
+.h3s{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 750;
+    font-size: 2em;
+    
+}
+p{
+   font-size: 1.3em;
+   opacity: 0.7;
+   padding-top: 3%;
+   color:azure;
+   font-size: 2em;
+}
+
+.fas:hover{
+    color:#ffbf81;
+}
+
+#testimonials{
+    padding:7% 15%;
+    text-align: center;
+}
+
+#sec3{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* img{
+    border-radius: 50%;
+} */
+#dog{
+    width:20%;
+    border-radius: 50%;
+}
+
+.testimonial-text{
+    font-size: 3.5em;
+    color:white;
+}
+.image{
+    padding:1em;
+    width:20%;
+}
+
+
+#press{
+    text-align: center;
+
+}
+.press-logo{
+
+    width:10%;
+}
+
+#footer{
+   
+    text-align: center;
+    padding:7% 12%;
+    
+}
+
+.foot{
+    color:black;
+}
+
+.social{
+    margin:20px 15px;
+    font-size: 2em;
+    color:black;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 768px)  { 
+
+    #btn1{
+        margin-left: 5.5em;
+    }
+    #btn2{
+        margin-left: 5.5em;
+    }
+
+    #h1{
+        font-family:'Ubuntu', sans-serif; 
+       font-size: 3em;
+       font-weight: 700;
+       
+       margin: 1em;
+        color:whitesmoke;
+       
+    }
+    #iphone{
+        width:60%;
+        margin-top:1em;
+        margin-left: 1em;
+        transform: rotate(360deg);
+       margin-bottom: 1em;
+       margin-left: 1.5em;
+    }
+
+    p{
+        
+        font-size: 1em;
+        opacity: 0.7;
+        padding-top: 3%;
+        color:azure;
+        text-align: center;
+        
+     }
+
+    /* @media screen (width:800px) {
+
+  
+
+    p{
+        
+        font-size: 1em;
+        opacity: 0.7;
+        padding-top: 3%;
+        color:azure;
+        text-align: center;
+        
+     }
+
+    } */
+     
+
+    #title{
+        width:120%;
+        background-image:linear-gradient(#ff0f7b,#f89b29);
+        font-family: 'Ubuntu', sans-serif;
+        
+     }
+     .testimonial-text{
+        font-size: 2em;
+        color:white;
+    }
+
+    .image{
+        padding:1em;
+        width:30%;
+    }
+
+    #press{
+        text-align: center;
+    
+    }
+    .press-logo{
+    
+        width:20%;
+    }
+    
+
+
+} 
+
+
+
+
+ 

@@ -1,0 +1,127 @@
+body{
+  background-image:linear-gradient(#ff0f7b,#f89b29,#ff8989);
+  font-family: 'Ubuntu', sans-serif;
+box-sizing: border-box;
+ 
+}
+
+.img2{
+    width:100%;
+    height:auto;
+}
+
+.container {
+    padding:1em;
+    margin:1em;
+   
+  }
+  .img{
+    border-radius: 50%;
+   
+  }
+  /* Bottom right text */
+  .text-block {
+      
+    position: absolute;
+    top:20px;
+    background-color: black;
+    color: white;
+    padding:20px;
+  }
+
+
+  .h1s{
+    font-size: 2em;
+    font-family:  'Caveat', cursive;
+    text-decoration:white underline;
+    text-decoration-thickness: 4px ;
+    text-decoration-style:dotted ;
+    
+  }
+
+  .details{
+    text-align: center;
+    transition:1s;
+    color:white;
+    padding:5% 10%;
+   
+    font-family: 'Caveat', cursive;
+    font-size: 2em;
+    font-weight: 100;
+  }
+
+
+  .details:hover{
+    
+    transform:translateY(-2em);
+ 
+   
+  }
+
+  .part2{
+    font-family: 'Caveat', cursive;
+    color:white;
+    text-align: center;
+    padding: 5% 12%;
+  }
+  .h1ss{
+   
+    font-size: 4em;
+  }
+
+  .my{
+    margin-top:1em;
+    width:80%;
+    border-radius: 50%;
+  }
+  .p{
+    padding: 5% 12%;
+    margin-top:2em;
+    line-height: 2em;
+    text-align: center;
+    font-family: 'Caveat', cursive;
+    font-size: 2em;
+    color:whitesmoke;
+  }
+
+  #icon{
+    color:white;
+    text-align: center;
+    margin-left: 40%;
+    font-size: 6em;
+   
+
+  }
+
+  
+#footer{
+   
+  text-align: center;
+  padding:7% 12%;
+  
+}
+
+.foot{
+  color:black;
+  font-size: 2em;
+}
+
+.social{
+  margin:20px 15px;
+  font-size: 2em;
+  color:black;
+
+}
+
+#nav{
+  color:black;
+}
+.fas{
+  font-size: 2em;
+
+}
+
+.direction{
+  display: flex;
+  justify-content: flex-end;
+}

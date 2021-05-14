@@ -1,0 +1,120 @@
+body{
+    background-image:linear-gradient(#ff0f7b,#f89b29,#ff8989);
+    font-family: 'Ubuntu', sans-serif;
+  box-sizing: border-box;
+   
+}
+
+#quote{
+    text-align: center;
+    opacity: 0.5;
+    font-size: 2em;
+}
+#h12{
+    text-align: center;
+    font-size: 3em;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    color:black;
+    background-color: white;
+}
+
+#nav{
+    color:black;
+}
+.fas{
+    font-size: 2em;
+  
+}
+
+.button{
+    border-radius: 1em;
+    padding:0 15%;
+    margin-top: 1em;
+    border: 2px solid whitesmoke;
+    transition: all 1s;
+
+}
+
+.button:hover{
+    background-color: blueviolet;
+}
+
+
+
+
+.back:hover{
+    background-color: blanchedalmond;
+}
+
+.card{
+    margin-top: 3em;
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    transition:1s;
+    padding:7% 15%;
+    box-shadow: black;
+   
+   
+}
+.card-p{
+    transition:0.5s;
+}
+.card-p:hover{
+
+    background-color: #f492f0;
+    border-radius: 1em;
+}
+
+.card-header{
+    margin:0;
+    padding:0;
+   
+}
+
+.pitbull{
+    width:25%;
+    border-radius: 50%;
+ 
+
+}
+
+.lab{
+    width:25%;
+    border-radius: 50%;
+}
+
+.mastiff{
+    width:25%;
+    border-radius: 50%;
+
+}
+
+
+
+.card:hover{
+
+    transform:translateY(1.3em);
+ 
+}
+
+#footer{
+   
+    text-align: center;
+    padding:7% 12%;
+    
+}
+
+.foot{
+    color:black;
+    font-size: 2em;
+}
+
+.social{
+    margin:20px 15px;
+    font-size: 2em;
+    color:black;
+
+}
+
